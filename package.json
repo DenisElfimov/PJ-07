@@ -1,0 +1,16 @@
+{
+  "name": "commenting_system_pg-07",
+  "version": "1.0.0",
+  "description": "development of a commenting system for SkillFactory",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "http-server -p 5566"
+  },
+  "author": "DenisElfimov",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "typescript": "^5.2.2"
+  }
+}
